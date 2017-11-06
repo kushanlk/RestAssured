@@ -4,7 +4,7 @@ import static org.hamcrest.Matchers.*;
 
 public class NewTest {
  // @Test
-  public void test_NumberOfCircuitsFor2017Season() {
+  public void test_NumberOfCircuitsFor2017Season01() {
 	  given().
 	  when().
 	  get("http://ergast.com/api/f1/2017/circuits.json").

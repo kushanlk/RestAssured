@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3661" started-at="2017-11-05T15:18:22Z" finished-at="2017-11-05T15:18:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3661" started-at="2017-11-05T15:18:22Z" finished-at="2017-11-05T15:18:26Z">
+      <class name="NewTest">
+        <test-method status="PASS" signature="test_NumberOfCircuitsFor2017Season03()[pri:0, instance:NewTest@6d00a15d]" name="test_NumberOfCircuitsFor2017Season03" duration-ms="3631" started-at="2017-11-05T20:48:22Z" finished-at="2017-11-05T20:48:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_NumberOfCircuitsFor2017Season03 -->
+      </class> <!-- NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
